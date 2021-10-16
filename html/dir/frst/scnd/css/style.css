@@ -1,0 +1,40 @@
+#link_1, #link_2, #link_3{
+    background-color: #ff9c4b;
+    font-family: cursive;
+}
+
+#bf_list, #superform{
+    background-color: #fceee3;
+    font-family: cursive;
+}
+
+header main, header aside{
+    background-color: #ff9034;
+    font-family: cursive;
+    vertical-align: middle;
+    height: 100%;
+}
+
+table td, th{
+  border: 2px solid rgb(250, 222, 222);
+}
+
+
+
+table {
+  width: 100%;
+  font-family: cursive;
+}
+
+.table_odd {
+    background-color:#fcad7f;
+}
+
+.table_even {
+    background-color:#fcd5b0;
+}
+
+body footer{
+    background-color: #ff6600;
+    font-family: cursive;
+}
